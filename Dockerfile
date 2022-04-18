@@ -1,6 +1,6 @@
 FROM adoptopenjdk/openjdk11:alpine-jre
 
-LABEL maintainer="yoonso@shinsegae.com"
+
 
 #EXPOSE 8888
 
