@@ -1,6 +1,5 @@
 FROM adoptopenjdk/openjdk11:alpine-jre
-
-
+CMD ["pwd]
 
 #EXPOSE 8888
 
